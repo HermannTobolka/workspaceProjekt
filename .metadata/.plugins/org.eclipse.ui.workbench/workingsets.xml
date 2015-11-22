@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1433336993073_1" label="Taskliste" name="Taskliste">
+<item factoryID="org.eclipse.mylyn.tasks.ui.workingSets.elementFactory" handle.task="Uncategorized"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RezeptSammlungMitFilterung" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1432475740791_0" label="Window Working Set" name="Aggregate for window 1415736960098"/>
+</workingSetManager>

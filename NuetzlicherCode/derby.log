@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Wed Jun 10 16:24:46 CEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.2 - (1495037): instance a816c00e-014d-dddb-e7ec-000000bebb80 
+on database directory C:\Users\Hermann\workspaceProjekt\testdb with class loader sun.misc.Launcher$AppClassLoader@387f44 
+Loaded from file:/C:/Program%20Files%20(x86)/Java/jdk1.8.0/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\Hermann\workspaceProjekt\NuetzlicherCode
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 10 16:24:48 CEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.2 - (1495037): instance 610e402f-014d-dddb-e7ec-000000bebb80 
+on database directory C:\Users\Hermann\workspace\hotels with class loader sun.misc.Launcher$AppClassLoader@387f44 
+Loaded from file:/C:/Program%20Files%20(x86)/Java/jdk1.8.0/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\Hermann\workspaceProjekt\NuetzlicherCode
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
